@@ -61,17 +61,17 @@ preloader = true
 # search
 search = true
 # about author
-author = "EPCC and ARCHER2 Outreach"
+author = "John Doe"
 author_image = "images/banner-img.png"
-bio = "EPCC and ARCHER2 Outreach team"
+bio = "I’m a Freelance Interactive Art Director based in France. Focusing across branding and identity, digital and print."
 # Contact info
-mobile = ""
-email = "helpdesk@epcc.ed.ac.uk"
-address = "Bayes Centre, <br>47 Potterrow, <br>Edinburgh EH8 9BT"
+mobile = "+90 000 333 22"
+email = "exmaple@ymail.com"
+address = "6 rip carl Avenue CA 90733"
 # Contact Form Action
 contact_form_action = "#"
 # copyright
-copyright = "Website &copy; Design & Developed by [EPCC](https://epcc.ed.ac.uk/).<br>Copyright &copy; 2023 a theme by [themefisher.com](https://themefisher.com)"
+copyright = "Copyright &copy; 2023 a theme by [themefisher.com](https://themefisher.com)"
 
 # Instagram feed
 [params.instafeed]
@@ -84,18 +84,18 @@ enable = true
 expire_days = 2
 
 # social site
-#[[params.social]]
-#icon = "ti-facebook"
-#link = "https://facebook.com/themefisher"
-#
-#[[params.social]]
-#icon = "ti-twitter-alt"
-#link = "#"
-#
-#[[params.social]]
-#icon = "ti-linkedin"
-#link = "#"
-#
-#[[params.social]]
-#icon = "ti-github"
-#link = "#"
+[[params.social]]
+icon = "ti-facebook"
+link = "https://facebook.com/themefisher"
+
+[[params.social]]
+icon = "ti-twitter-alt"
+link = "#"
+
+[[params.social]]
+icon = "ti-linkedin"
+link = "#"
+
+[[params.social]]
+icon = "ti-github"
+link = "#"
