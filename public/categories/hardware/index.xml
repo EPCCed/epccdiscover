@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Hardware on Parsa Hugo | Personal Blog Template</title>
+    <link>http://localhost:1313/parsa/site/categories/hardware/</link>
+    <description>Recent content in Hardware on Parsa Hugo | Personal Blog Template</description>
+    <generator>Hugo</generator>
+    <language>en-us</language>
+    <lastBuildDate>Wed, 03 Apr 2024 00:00:00 +0000</lastBuildDate>
+    <atom:link href="http://localhost:1313/parsa/site/categories/hardware/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Virtual Tour</title>
+      <link>http://localhost:1313/parsa/site/blog/2024-04-03-virtual-tour/</link>
+      <pubDate>Wed, 03 Apr 2024 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/parsa/site/blog/2024-04-03-virtual-tour/</guid>
+      <description>&lt;p&gt;ARCHER2, the UK&amp;rsquo;s National Supercomputing Service, stands as a world-class advanced computing resource for UK researchers. Powered by the HPE Cray EX supercomputing system, ARCHER2 boasts an estimated peak performance of 28 Pflop/s. With 5,848 nodes, each housing dual AMD EPYCTM 7742 64-core processors clocked at 2.25GHz, the machine contains a total of 750,080 cores. Running ARCHER2 requires specialist staff and facilities, along with a massive power supply. The system is capable of over eleven times the scientific throughput of its predecessor, ARCHER.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>History of Machines</title>
+      <link>http://localhost:1313/parsa/site/blog/2023-04-25-history-of-machines/</link>
+      <pubDate>Tue, 25 Apr 2023 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/parsa/site/blog/2023-04-25-history-of-machines/</guid>
+      <description>&lt;p&gt;This virtual museum showcases nearly 40 years of supercomputers at EPCC, which hosts and manages ARCHER2 on behalf of UKRI, and how the technology has changed over time.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>ARCHER2 Hardware</title>
+      <link>http://localhost:1313/parsa/site/blog/2023-03-24-archer2-hardware-leaflet/</link>
+      <pubDate>Fri, 24 Mar 2023 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/parsa/site/blog/2023-03-24-archer2-hardware-leaflet/</guid>
+      <description>&lt;p&gt;Download our &lt;a href=&#34;../../docs/epcc_archer2_hardware_03.pdf&#34;&gt;ARCHER2 Hardware leaflet&lt;/a&gt; to learn more about what is inside the cabinets.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Deep Dive</title>
+      <link>http://localhost:1313/parsa/site/blog/2023-03-24-deep-dive-leaflet/</link>
+      <pubDate>Fri, 24 Mar 2023 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/parsa/site/blog/2023-03-24-deep-dive-leaflet/</guid>
+      <description>&lt;p&gt;Download our &lt;a href=&#34;../../docs/epcc_ESF_deepdive_02.pdf&#34;&gt;Deep Dive leaflet&lt;/a&gt; to find out about the parts that make up a Supercomputer, and why Supercomputers are super!&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Wee Archie</title>
+      <link>http://localhost:1313/parsa/site/blog/2023-01-01-wee-archie/</link>
+      <pubDate>Tue, 10 Jan 2023 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/parsa/site/blog/2023-01-01-wee-archie/</guid>
+      <description>&lt;p&gt;ARCHER2 is made of 23 cabinets containing 5,848 nodes. It requires specialist staff and facilities to run, plus a massive power supply - it&amp;rsquo;s not possible to transport parts of it to science festivals and other events! For that reason, we have created Wee Archie to help teach people of all ages about Supercomputers.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>How do you use a supercomputer?</title>
+      <link>http://localhost:1313/parsa/site/blog/2023-01-01-how-do-you-use-a-supercomputer/</link>
+      <pubDate>Sun, 01 Jan 2023 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/parsa/site/blog/2023-01-01-how-do-you-use-a-supercomputer/</guid>
+      <description>&lt;p&gt;Supercomputers are often made up of a large number of coupled computer cores – the brains of the computer - all working together in parallel.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>What is a supercomputer?</title>
+      <link>http://localhost:1313/parsa/site/blog/2023-01-01-what-is-a-supercomputer/</link>
+      <pubDate>Sun, 01 Jan 2023 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/parsa/site/blog/2023-01-01-what-is-a-supercomputer/</guid>
+      <description>&lt;p&gt;A supercomputer is an extremely fast computer,usually&#xA;millions of times faster than a normal home computer.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Why are supercomputers important?</title>
+      <link>http://localhost:1313/parsa/site/blog/2023-01-01-why-are-supercomputers-important/</link>
+      <pubDate>Sun, 01 Jan 2023 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/parsa/site/blog/2023-01-01-why-are-supercomputers-important/</guid>
+      <description>&lt;p&gt;Supercomputers allow us to understand things that are too difficult to see or measure in real life.&lt;/p&gt;</description>
+    </item>
+  </channel>
+</rss>

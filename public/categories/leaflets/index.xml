@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Leaflets on Parsa Hugo | Personal Blog Template</title>
+    <link>http://localhost:1313/parsa/site/categories/leaflets/</link>
+    <description>Recent content in Leaflets on Parsa Hugo | Personal Blog Template</description>
+    <generator>Hugo</generator>
+    <language>en-us</language>
+    <lastBuildDate>Mon, 03 Apr 2023 00:00:00 +0000</lastBuildDate>
+    <atom:link href="http://localhost:1313/parsa/site/categories/leaflets/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Case Studies</title>
+      <link>http://localhost:1313/parsa/site/blog/2023-04-04-case-studies/</link>
+      <pubDate>Mon, 03 Apr 2023 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/parsa/site/blog/2023-04-04-case-studies/</guid>
+      <description>&lt;p&gt;We have created a collection of Case Studies highlighting ARCHER2 research&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>ARCHER2 Hardware</title>
+      <link>http://localhost:1313/parsa/site/blog/2023-03-24-archer2-hardware-leaflet/</link>
+      <pubDate>Fri, 24 Mar 2023 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/parsa/site/blog/2023-03-24-archer2-hardware-leaflet/</guid>
+      <description>&lt;p&gt;Download our &lt;a href=&#34;../../docs/epcc_archer2_hardware_03.pdf&#34;&gt;ARCHER2 Hardware leaflet&lt;/a&gt; to learn more about what is inside the cabinets.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Beautiful Binary</title>
+      <link>http://localhost:1313/parsa/site/blog/2023-03-24-beautiful-binary-leaflet/</link>
+      <pubDate>Fri, 24 Mar 2023 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/parsa/site/blog/2023-03-24-beautiful-binary-leaflet/</guid>
+      <description>&lt;p&gt;Download our &lt;a href=&#34;../../docs/epcc_ESF_binary_03.pdf&#34;&gt;Beautiful Binary leaflet&lt;/a&gt; to learn more about how computers store information and perform calcuations.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Deep Dive</title>
+      <link>http://localhost:1313/parsa/site/blog/2023-03-24-deep-dive-leaflet/</link>
+      <pubDate>Fri, 24 Mar 2023 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/parsa/site/blog/2023-03-24-deep-dive-leaflet/</guid>
+      <description>&lt;p&gt;Download our &lt;a href=&#34;../../docs/epcc_ESF_deepdive_02.pdf&#34;&gt;Deep Dive leaflet&lt;/a&gt; to find out about the parts that make up a Supercomputer, and why Supercomputers are super!&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Sensational Switches</title>
+      <link>http://localhost:1313/parsa/site/blog/2023-03-24-sensasional-switches-leaflet/</link>
+      <pubDate>Fri, 24 Mar 2023 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/parsa/site/blog/2023-03-24-sensasional-switches-leaflet/</guid>
+      <description>&lt;p&gt;Download our &lt;a href=&#34;../../docs/epcc_ESF_logic_gates_03.pdf&#34;&gt;Sensational Switches leaflet&lt;/a&gt; to learn more about switches, transistors, logic, sensors and more, and you can even try building your own circuits to try things out.&lt;/p&gt;</description>
+    </item>
+  </channel>
+</rss>
