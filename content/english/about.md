@@ -8,6 +8,8 @@ image: "images/author.jpg"
 
 <h3 class="font-weight-light">Hello, from the <span class="font-weight-bold">{{ .Site.Params.author }}</span></h3>
 
+Need to put the above into a partial to pull out the site params.  doh.
+
 We are here to tell you a bit about Supercomputers and what we do with them.
 
 We are based at &nbsp; <a href="https://www.epcc.ed.ac.uk"><img src="../images/epcc-logo-new.jpg" width="15%"></a>, home to a range of HPC services.
