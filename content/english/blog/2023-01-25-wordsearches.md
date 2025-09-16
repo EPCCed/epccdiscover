@@ -4,7 +4,7 @@ date: 2023-01-25
 description: "Resources"
 type: "post"
 tall-image: 
-image: "images/masonary-post/wordsearches.jpg"
+image: "images/wordsearches.jpg"
 author: "Clair"
 categories: 
   - "Activities"

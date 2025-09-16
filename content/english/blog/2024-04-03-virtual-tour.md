@@ -4,7 +4,7 @@ date: 2024-04-03
 description: "Hardware virtual tour"
 type: "post"
 tall-image: 
-image: "images/masonary-post/virtual-tour.jpg"
+image: "images/virtual-tour.jpg"
 author: "Spyro Nita"
 categories: 
   - "Hardware"

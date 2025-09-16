@@ -5,7 +5,7 @@ date: 2023-03-24
 description: "Beautiful Binary leaflet"
 type: "post"
 tall-image: 
-image: "images/masonary-post/beautiful-binary.jpg"
+image: "images/beautiful-binary.jpg"
 categories: 
   - Leaflets
 ---

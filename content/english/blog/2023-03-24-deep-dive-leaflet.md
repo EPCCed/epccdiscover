@@ -4,7 +4,7 @@ date: 2023-03-24
 description: "Deep Dive Leaflet"
 type: "post"
 tall-image: 
-image: "images/masonary-post/deep-dive.jpg"
+image: "images/deep-dive.jpg"
 categories: 
   - Activities
   - Leaflets

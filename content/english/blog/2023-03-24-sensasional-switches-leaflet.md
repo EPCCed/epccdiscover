@@ -5,7 +5,7 @@ date: 2023-03-24
 description: "Sensational Switches Leaflet"
 type: "post"
 tall-image: 
-image: "images/masonary-post/sensational-switches.jpg"
+image: "images/sensational-switches.jpg"
 categories: 
   - Activities
   - Leaflets

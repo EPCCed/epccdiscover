@@ -4,7 +4,7 @@ date: 2023-01-01
 description: "Resources"
 type: "post"
 tall-image: 
-image: images/masonary-post/sorting-game.jpg
+image: images/sorting-game.jpg
 categories: 
   - Activities
 ---

@@ -5,7 +5,7 @@ description: "Paper plane"
 type: "post"
 tall-image: 
 author: "Clair"
-image: "images/masonary-post/PaperPlaneActivity.jpg"
+image: "images/PaperPlaneActivity.jpg"
 categories: 
   - Activities
 ---
@@ -41,7 +41,7 @@ Simulations can also be used in the development and testing of many other huge e
 
 
 
-<img src="../../images/2018_07_Entry_800.jpg" width="60%" align="center">
+<img src="../../2018_07_Entry_800.jpg" width="60%" align="center">
 
 <p align=center>Turbulence-resolving simulation of the wake behind two in-line wind turbines 
 <br>

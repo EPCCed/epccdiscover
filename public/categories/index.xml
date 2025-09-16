@@ -29,47 +29,5 @@
       <guid>http://localhost:1313/parsa/site/categories/leaflets/</guid>
       <description></description>
     </item>
-    <item>
-      <title>Article</title>
-      <link>http://localhost:1313/parsa/site/categories/article/</link>
-      <pubDate>Tue, 14 May 2019 14:46:10 +0600</pubDate>
-      <guid>http://localhost:1313/parsa/site/categories/article/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>Fashion</title>
-      <link>http://localhost:1313/parsa/site/categories/fashion/</link>
-      <pubDate>Tue, 14 May 2019 14:46:10 +0600</pubDate>
-      <guid>http://localhost:1313/parsa/site/categories/fashion/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>Food</title>
-      <link>http://localhost:1313/parsa/site/categories/food/</link>
-      <pubDate>Tue, 14 May 2019 14:46:10 +0600</pubDate>
-      <guid>http://localhost:1313/parsa/site/categories/food/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>Nature</title>
-      <link>http://localhost:1313/parsa/site/categories/nature/</link>
-      <pubDate>Tue, 14 May 2019 14:46:10 +0600</pubDate>
-      <guid>http://localhost:1313/parsa/site/categories/nature/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>Philosophy</title>
-      <link>http://localhost:1313/parsa/site/categories/philosophy/</link>
-      <pubDate>Tue, 14 May 2019 14:46:10 +0600</pubDate>
-      <guid>http://localhost:1313/parsa/site/categories/philosophy/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>Valuable Idea</title>
-      <link>http://localhost:1313/parsa/site/categories/valuable-idea/</link>
-      <pubDate>Tue, 14 May 2019 14:46:10 +0600</pubDate>
-      <guid>http://localhost:1313/parsa/site/categories/valuable-idea/</guid>
-      <description></description>
-    </item>
   </channel>
 </rss>

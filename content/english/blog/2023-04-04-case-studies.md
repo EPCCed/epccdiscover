@@ -4,7 +4,7 @@ date: 2023-04-03
 description: "Resources"
 type: "post"
 tall-image: 
-image: "images/masonary-post/case-studies.jpg"
+image: "images/case-studies.jpg"
 author: 
 categories: 
   - Leaflets

@@ -4,7 +4,7 @@ date: 2023-04-25
 description: "Resources"
 type: "post"
 tall-image: 
-image: "images/masonary-post/history-of-machines.jpg"
+image: "images/history-of-machines.jpg"
 categories: 
   - Hardware
 ---
