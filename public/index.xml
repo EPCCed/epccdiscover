@@ -132,7 +132,7 @@
       <link>http://localhost:1313/parsa/site/about/</link>
       <pubDate>Tue, 14 May 2019 14:46:10 +0600</pubDate>
       <guid>http://localhost:1313/parsa/site/about/</guid>
-      <description>&lt;h3 class=&#34;font-weight-light&#34;&gt;Hello, from the &lt;span class=&#34;font-weight-bold&#34;&gt;{{site.author.name}}&lt;/span&gt;&lt;/h3&gt;&#xD;&#xA;&lt;p&gt;We are here to tell you a bit about Supercomputers and what we do with them.&lt;/p&gt;</description>
+      <description>&lt;h3 class=&#34;font-weight-light&#34;&gt;Hello, from the &lt;span class=&#34;font-weight-bold&#34;&gt;{{ .Site.Params.author }}&lt;/span&gt;&lt;/h3&gt;&#xD;&#xA;&lt;p&gt;We are here to tell you a bit about Supercomputers and what we do with them.&lt;/p&gt;</description>
     </item>
     <item>
       <title>Contact</title>

@@ -6,7 +6,7 @@ image: "images/author.jpg"
 ---
 
 
-<h3 class="font-weight-light">Hello, from the <span class="font-weight-bold">{{site.author.name}}</span></h3>
+<h3 class="font-weight-light">Hello, from the <span class="font-weight-bold">{{ .Site.Params.author }}</span></h3>
 
 We are here to tell you a bit about Supercomputers and what we do with them.
 
