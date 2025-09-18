@@ -4,6 +4,7 @@ title: "Wee Archie"
 date: 2023-01-10
 description: "Resources"
 type: "featured"
+type: "post"
 tall-image: "images/wee-archie-2-tall.jpg"
 image: "images/featured-post/wee-archie-2-tall.jpg"
 categories: 

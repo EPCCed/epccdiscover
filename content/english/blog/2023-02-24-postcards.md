@@ -4,6 +4,7 @@ title: "Postcards"
 date: 2023-02-24
 description: "Resources"
 type: "featured"
+type: "post"
 tall-image: "images/postcards-tall.jpg"
 image: "images/featured-post/postcards-tall.jpg"
 categories: 
