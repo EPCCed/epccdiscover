@@ -6,7 +6,7 @@ image: "images/author.jpg"
 ---
 
 
-<h3 class="font-weight-light">Hello, from the <span class="font-weight-bold">{{ .Site.Params.author }}</span></h3>
+<h3 class="font-weight-light">Hello, from the <span class="font-weight-bold">EPCC and ARCHER2 Outreach team</span></h3>
 
 Need to put the above into a partial to pull out the site params.  doh.
 
