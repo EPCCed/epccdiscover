@@ -1,27 +1,50 @@
 
 # navigation
 [[main]]
-name = "Homepage"
+name = "Home"
 url = ""
 weight = 1
+
+
+[[main]]
+name = "Topics"
+url = ""
+weight = 2
 hasChildren = true
 
-[[main]]
-parent = "Homepage"
-name = "Homepage 1"
-url = "homepage/home-1/"
 
 [[main]]
-parent = "Homepage"
-name = "Homepage 2"
-url = "homepage/home-2/"
+parent = "Topics"
+name = "All topics"
+url = ""
+weight = 1
+
+
+[[main]]
+parent = "Topics"
+name = "Activities"
+url = "/categories/activities"
+weight = 2
+
+[[main]]
+parent = "Topics"
+name = "Hardware"
+url = "/categories/hardware"
+weight = 3
+
+[[main]]
+parent = "Topics"
+name = "Leaflets"
+url = "/categories/leaflets"
+weight = 4
+
+[[main]]
+parent = "Topics"
+name = "ARCHER2 EPCC outreach online interactive site"
+url = "https://outreach.epcc.ed.ac.uk/"
+weight = 5
 
 [[main]]
 name = "About"
 url = "about/"
-weight = 2
-
-[[main]]
-name = "Contact"
-url = "contact/"
 weight = 3
