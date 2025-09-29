@@ -13,7 +13,7 @@
             <div class="card-content">
 
               <p>
-                  <ul class="list-inline tag-list">
+                  <ul class="list-inline tag-list-clear">
                     {{- range $name := .Params.Categories  }}
                     <li class="list-inline-item m-1" ><a href="{{ "categories/" | relLangURL }}{{ $name | urlize | lower }}/" color="#44444">{{ $name | title | humanize }}</a></li>
                     {{- end }}
