@@ -4,8 +4,8 @@ title: "Resources"
 date: 2023-01-01
 description: "Resources"
 type: "featured"
-tall-image: "images/working in parallel tall2.jpg"
-image: "images/featured-post/working in parallel tall2.jpg"
+tallimage: "images/working in parallel tall2.jpg"
+image: "images/working in parallel.jpg"
 categories: 
   - Activities
 ---

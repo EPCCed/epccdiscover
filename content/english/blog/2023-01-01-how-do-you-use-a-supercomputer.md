@@ -4,8 +4,8 @@ title: "How do you use a supercomputer?"
 date: 2023-01-01
 description: "Resources"
 type: "featured"
-tall-image: "images/archer2 in use tall.jpg"
-image: "images/featured-post/archer2 in use tall.jpg"
+tallimage: "images/archer2 in use tall.jpg"
+image: "images/archer2 in use.jpg"
 categories: 
   - Hardware
 ---

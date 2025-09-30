@@ -5,8 +5,8 @@ date: 2023-01-01
 description: "What is a supercomputer?"
 author: 
 type: "featured"
-tall-image: "images/archer2 inside tall.jpg"
-image: "images/featured-post/archer2 inside tall.jpg"
+tallimage: "images/archer2 inside tall.jpg"
+image: "images/archer2 inside.jpg"
 categories: 
   - Hardware
 ---

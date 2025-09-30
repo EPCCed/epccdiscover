@@ -4,8 +4,8 @@ title: "Why are supercomputers important?"
 date: 2023-01-01
 description: "Why are supercomputers important?"
 type: "featured"
-tall-image: "images/ARCHER2 cabinets tall.jpg"
-image: "images/featured-post/ARCHER2 cabinets tall.jpg"
+tallimage: "images/ARCHER2 cabinets tall.jpg"
+image: "images/ARCHER2 cabinets.jpg"
 categories: 
   - Hardware
 ---

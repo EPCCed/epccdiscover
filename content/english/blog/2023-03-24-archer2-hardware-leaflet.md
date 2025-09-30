@@ -4,8 +4,8 @@ title: "ARCHER2 Hardware"
 date: 2023-03-24
 description: "Leaflet about the ARCHER2 hardware"
 type: "featured"
-tall-image: "images/hardware-leaflet-tall.jpg"
-image: "images/featured-post/hardware-leaflet-tall.jpg"
+tallimage: "images/hardware-leaflet-tall.jpg"
+image: "images/hardware-leaflet.jpg"
 categories: 
   - Hardware
   - Leaflets
