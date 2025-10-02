@@ -1,7 +1,8 @@
 # default config
 baseurl = "https://demo.gethugothemes.com/parsa/site/"
 languageCode = "en-us"
-title = "Discover and Learn - new"
+title = "Discover and Learn"
+favicon = "/assets/favicon.ico"
 theme = "parsa-hugo"
 summaryLength = "10"
 pagination.pagerSize = 6
@@ -57,7 +58,8 @@ home = "Home"
 # theme layout ( two layout is available, "1" and "2" )
 layout = "1"
 # Meta data
-description = "This is meta description"
+description = "EPCC Discover and Learn Outreach"
+favicon = true
 # Preloader
 preloader = true
 # search
