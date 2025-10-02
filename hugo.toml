@@ -58,7 +58,6 @@ home = "Home"
 layout = "1"
 # Meta data
 description = "EPCC Discover and Learn Outreach"
-favicon = true
 # Preloader
 preloader = true
 # search
