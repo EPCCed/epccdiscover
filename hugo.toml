@@ -2,7 +2,6 @@
 baseurl = "https://demo.gethugothemes.com/parsa/site/"
 languageCode = "en-us"
 title = "Discover and Learn"
-favicon = "/assets/favicon.ico"
 theme = "parsa-hugo"
 summaryLength = "10"
 pagination.pagerSize = 6
