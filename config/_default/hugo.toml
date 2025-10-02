@@ -7,3 +7,6 @@ summaryLength = "10"
 pagination.pagerSize = 6
 # google analytics
 googleAnalytics = "" # example : UA-123-45
+[caches]
+  [caches.images]
+    dir = ':cacheDir/images'
