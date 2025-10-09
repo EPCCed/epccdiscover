@@ -1,7 +1,7 @@
 # default config
 baseurl = "https://demo.gethugothemes.com/parsa/site/"
 languageCode = "en-us"
-title = "Parsa Hugo | Personal Blog Template"
+title = "Discover & Learn"
 theme = "parsa-hugo"
 summaryLength = "10"
 pagination.pagerSize = 6
