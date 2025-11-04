@@ -16,11 +16,11 @@ to one of our wordsearches
 
 <!--more-->
 
-- [Circle](docs/discover-wordsearch-circle.pdf)
-- [Clover](docs/discover-wordsearch-clover.pdf)
-- [Diamond](docs/discover-wordsearch-diamond.pdf)
-- [Heart](docs/discover-wordsearch-heart.pdf)
-- [Smile](docs/discover-wordsearch-smile.pdf)
-- [Star](docs/discover-wordsearch-star.pdf)
-- [Triangle](docs/discover-wordsearch-triangle.pdf)
+- [Circle](../../docs/discover-wordsearch-circle.pdf)
+- [Clover](../../docs/discover-wordsearch-clover.pdf)
+- [Diamond](../../docs/discover-wordsearch-diamond.pdf)
+- [Heart](../../docs/discover-wordsearch-heart.pdf)
+- [Smile](../../docs/discover-wordsearch-smile.pdf)
+- [Star](../../docs/discover-wordsearch-star.pdf)
+- [Triangle](../../docs/discover-wordsearch-triangle.pdf)
 

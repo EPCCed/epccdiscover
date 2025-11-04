@@ -73,7 +73,7 @@ address = "Bayes Centre, <br>47 Potterrow, <br>Edinburgh EH8 9BT"
 # Contact Form Action
 contact_form_action = "#"
 # copyright
-copyright = "Website &copy; Design & Developed by [EPCC](https://epcc.ed.ac.uk/).<br>Copyright &copy; 2023 a theme by [themefisher.com](https://themefisher.com)"
+copyright = "Website &copy; Design & Developed by [EPCC](https://www.epcc.ed.ac.uk/).<br>Copyright &copy; 2023 a theme by [themefisher.com](https://themefisher.com)"
 
 # Instagram feed
 [params.instafeed]
