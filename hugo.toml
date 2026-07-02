@@ -8,6 +8,9 @@ pagination.pagerSize = 6
 # google analytics
 googleAnalytics = "" # example : UA-123-45
 
+# enableRobotsTXT
+enableRobotsTXT         = true
+
 # output
 [outputs]
 home = ["HTML", "RSS", "JSON"]
